@@ -88,6 +88,7 @@ Through this report we expect you to demonstrate your ability to constructively 
 A portion of your grade will be based on performance against the following staff agents:
  - `staff_baseline`
  - `staff_PhantomSlug`
+ - `staff_SlugTrap`
  - TBD
 
 Points are also awarded as follows:
